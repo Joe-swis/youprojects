@@ -10,3 +10,4 @@ rl.question('Please Enter your stockage: ', (GB) => {
     console.log("Résultat : ",MB + " MB")
     rl.close();
 });
+
